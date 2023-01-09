@@ -4,6 +4,7 @@
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+   Desktop Size: 1600 x 900 Mobile Size: 360 x 800
 </div>
 
 <div align="center">
