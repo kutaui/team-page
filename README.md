@@ -9,11 +9,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{kutaui.github.io/team-page}">
+    <a href="https://kutaui.github.io/team-page">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{github.com/kutaui/team-page}">
+    <a href="https://github.com/kutaui/team-page">
       Solution
     </a>
     <span> | </span>
