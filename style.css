@@ -41,12 +41,15 @@ p {
 
 img {
     margin-left: -25px;
-    margin-right: -25px;
-    width: 139px;
-    height: 210px;
+    
+    width: 8.6875rem;
+    height: 13.125rem;
 }
 
 figure {
+    margin-right: -27px;
+    width: 155px;
+    height: 247px;
     position: relative;
 }
 
@@ -71,10 +74,11 @@ figcaption {
 }
 
 .roles {
+    width: 130px;
+    height: 11px;
     position: absolute;
-    top: 37px;
-    left: 82px;    
-    transform: rotate(90deg);   
+    margin-left:50px;
+    transform: rotate(90deg) translate(-154px,-10px); 
     font-family: 'PT Serif';
     font-style: normal;
     font-weight: 400;
